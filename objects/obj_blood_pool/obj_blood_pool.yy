@@ -4,20 +4,11 @@
     "mvc": "1.0",
     "name": "obj_blood_pool",
     "eventList": [
-        {
-            "id": "1cb1449d-728b-4e0e-9246-ed9711018012",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "aa14e5e9-d247-4c3d-a6d3-8f4cd89e25a4"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "abb8a9e6-db75-4ff2-b7f5-085db0338112",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0,
