@@ -67,36 +67,36 @@ if(sprite_index == spr_usera_attack_back||
 	sprite_index == spr_usera_attack_front||
 	sprite_index == spr_usera_attack_side){
 		if(image_index > 2 && !m_fired){
-			var magicBullet = instance_create_layer(x,y,"Instances",obj_usera_bullet);
+			var magicBullet = instance_create_layer(phy_position_x,phy_position_y,"Instances",obj_usera_bullet);
 			var delta_x = 0;
 			var delta_y = 0;
 			m_fired = true;
 			switch(m_playerDiection){
 			case PlayerDirection.UP:
 				magicBullet.m_speedY = -10;
-				magicBullet.image_angle = 270;
+				magicBullet.phy_rotation = 90;
 				delta_y = -86;
 				break;
 			case PlayerDirection.DOWN:
 				magicBullet.m_speedY = 10;
-				magicBullet.image_angle = 90;
+				magicBullet.phy_rotation = 270;
 				delta_y = 9;
 				break;
 			case PlayerDirection.LEFT:
 				magicBullet.m_speedX = -10;
-				magicBullet.image_angle = 0;
+				magicBullet.phy_rotation = 0;
 				delta_x = -65;
 				delta_y	= -32;
 				break;
 			case PlayerDirection.RIGHT:
 				magicBullet.m_speedX = 10;
-				magicBullet.image_angle = 180;
+				magicBullet.phy_rotation = 180;
 				delta_x = 65;
 				delta_y = -32;
 				break;
 			}
-			magicBullet.x += delta_x;
-			magicBullet.y += delta_y;
+			magicBullet.phy_position_x += delta_x;
+			magicBullet.phy_position_y += delta_y;
 		}
 	}
 	
