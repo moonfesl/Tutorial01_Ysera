@@ -55,10 +55,26 @@
             }
         },
         {
+            "Key": "0a02ac02-f0bd-4f2e-a292-e6c47fe57a01",
+            "Value": {
+                "id": "3ee3167f-f54d-4e46-ab77-05ff8d46691f",
+                "resourcePath": "scripts\\UseraAnimationEnd\\UseraAnimationEnd.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0b1a6dc8-30d1-4e6f-822f-2c4289b5cd2c",
             "Value": {
                 "id": "6e9cd6b9-1c01-4ca1-852f-e779fb52669d",
                 "resourcePath": "sprites\\spr_Usera_walk_back\\spr_Usera_walk_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0c0263af-7904-41ba-9dea-510feff9a633",
+            "Value": {
+                "id": "b4353341-f363-4710-9a40-a4cb3dfa34fb",
+                "resourcePath": "sprites\\spr_usera_skill01\\spr_usera_skill01.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -123,6 +139,14 @@
             "Value": {
                 "id": "62c1a2b4-8197-4735-bd33-ba91538eb7a1",
                 "resourcePath": "sprites\\spr_statue\\spr_statue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d159d26-ce18-492f-97e9-35d83a087398",
+            "Value": {
+                "id": "e0bebf14-1fc4-4333-b11e-50caea904237",
+                "resourcePath": "sprites\\spr_usera_attack_bullet\\spr_usera_attack_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -215,6 +239,14 @@
             }
         },
         {
+            "Key": "83f3df3f-248b-47df-a511-c7a050621031",
+            "Value": {
+                "id": "5cbbd3d4-d929-4c48-b214-8dea2e4ba1a7",
+                "resourcePath": "scripts\\UseraCreat\\UseraCreat.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "884ac1c7-97b6-47a9-8372-174cf422ebb5",
             "Value": {
                 "id": "d1225435-7e9f-4bdd-99d8-393bd3571f71",
@@ -287,6 +319,30 @@
             }
         },
         {
+            "Key": "ab290b68-5b96-4aaf-a058-e4cf0442e107",
+            "Value": {
+                "id": "82069500-e22b-4b60-bef1-dd3656d45d8e",
+                "resourcePath": "sprites\\spr_usera_attack_back\\spr_usera_attack_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1b9c89b-573d-465a-bd4a-3d3f3995f9a7",
+            "Value": {
+                "id": "b3ce14f3-7f64-4bdc-a4db-162dcf10f05f",
+                "resourcePath": "sprites\\spr_usera_attack_front\\spr_usera_attack_front.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b64aa8cb-8de4-4398-b7e0-aa5854b7af65",
+            "Value": {
+                "id": "3c774229-6517-478e-b42c-80e68201f604",
+                "resourcePath": "sprites\\spr_usera_skill01_effect\\spr_usera_skill01_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b86f3080-9561-4e36-b754-f9a6b45655ad",
             "Value": {
                 "id": "a6156203-fad0-4f7d-83da-8c6a92c7e65d",
@@ -340,6 +396,14 @@
                 "id": "d805262f-9f33-4be1-a526-b6329eba1541",
                 "resourcePath": "objects\\obj_barrel\\obj_barrel.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "befbddff-dd3d-47b7-9ae1-bedc1202b633",
+            "Value": {
+                "id": "6e0852b9-d983-4e1b-aab4-4e31e86ac45e",
+                "resourcePath": "sprites\\spr_usera_attack_side\\spr_usera_attack_side.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -432,7 +496,9 @@
         }
     ],
     "script_order": [
-        "7c6f041e-d936-4259-baac-aefa4b8e9ad1"
+        "7c6f041e-d936-4259-baac-aefa4b8e9ad1",
+        "83f3df3f-248b-47df-a511-c7a050621031",
+        "0a02ac02-f0bd-4f2e-a292-e6c47fe57a01"
     ],
     "tutorial": ""
 }
