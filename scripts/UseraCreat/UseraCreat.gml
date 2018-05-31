@@ -11,3 +11,4 @@ m_playerDiection = PlayerDirection.DOWN;
 //initial control var
 m_isAttacking = false;
 m_isInSkill = false;
+m_fired = false;
