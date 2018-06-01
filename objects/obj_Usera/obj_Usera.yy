@@ -67,7 +67,11 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
+<<<<<<< HEAD
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
+=======
+    "parentObjectId": "bdc9e8af-3645-4ca5-a919-1748289e3c6a",
+>>>>>>> parent of 3c84666... 开始重构
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

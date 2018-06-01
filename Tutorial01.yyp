@@ -119,6 +119,25 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "2d159d26-ce18-492f-97e9-35d83a087398",
+            "Value": {
+                "id": "e0bebf14-1fc4-4333-b11e-50caea904237",
+                "resourcePath": "sprites\\spr_usera_attack_bullet\\spr_usera_attack_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2e14607e-edbd-4aee-a3de-de3c4f57d8d6",
+            "Value": {
+                "id": "8be6c57d-cefa-44d9-95b3-4767edda6cfe",
+                "resourcePath": "objects\\obj_hitbox\\obj_hitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+>>>>>>> parent of 3c84666... 开始重构
             "Key": "30956923-1c3b-43c6-976f-2bf69639c9a1",
             "Value": {
                 "id": "f9f6132a-af8c-40fa-b274-0ebdb0b3a3ac",
@@ -127,6 +146,17 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "334c9cd7-6c25-4108-8396-6911cb3206d3",
+            "Value": {
+                "id": "fb330959-cb52-43f3-a810-229134f8607c",
+                "resourcePath": "scripts\\DevilAnimationEnd\\DevilAnimationEnd.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+>>>>>>> parent of 3c84666... 开始重构
             "Key": "373e8583-7bd4-4e19-9f15-debb44ae683b",
             "Value": {
                 "id": "529c5c47-da9f-40ae-9c40-25faac9990bb",
@@ -271,6 +301,57 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "ab290b68-5b96-4aaf-a058-e4cf0442e107",
+            "Value": {
+                "id": "82069500-e22b-4b60-bef1-dd3656d45d8e",
+                "resourcePath": "sprites\\spr_usera_attack_back\\spr_usera_attack_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1b9c89b-573d-465a-bd4a-3d3f3995f9a7",
+            "Value": {
+                "id": "b3ce14f3-7f64-4bdc-a4db-162dcf10f05f",
+                "resourcePath": "sprites\\spr_usera_attack_front\\spr_usera_attack_front.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b337e589-8324-4257-9f23-9fc65323e1cc",
+            "Value": {
+                "id": "25a3febf-f8a8-42fa-bacd-cf7881c5d426",
+                "resourcePath": "sprites\\spr_devil_walk\\spr_devil_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b491516e-194f-4e37-9735-2458c49926d1",
+            "Value": {
+                "id": "57b3a7a1-bbfc-436b-a5e5-350f812cbe14",
+                "resourcePath": "sprites\\spr_devil_idle\\spr_devil_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6394a29-9136-4d3e-8afe-cc9ee628bd02",
+            "Value": {
+                "id": "a130a04f-566c-4070-ad74-5df2e6afec69",
+                "resourcePath": "scripts\\Skill01EffectCreate\\Skill01EffectCreate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b64aa8cb-8de4-4398-b7e0-aa5854b7af65",
+            "Value": {
+                "id": "3c774229-6517-478e-b42c-80e68201f604",
+                "resourcePath": "sprites\\spr_usera_skill01_effect\\spr_usera_skill01_effect.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+>>>>>>> parent of 3c84666... 开始重构
             "Key": "b86f3080-9561-4e36-b754-f9a6b45655ad",
             "Value": {
                 "id": "a6156203-fad0-4f7d-83da-8c6a92c7e65d",
@@ -367,6 +448,17 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "eb510b6c-4ec3-4b56-9ae7-e44c113e2a89",
+            "Value": {
+                "id": "b00e3de8-bcaa-453d-aa32-cb2a7fbda552",
+                "resourcePath": "scripts\\HitBoxStep\\HitBoxStep.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+>>>>>>> parent of 3c84666... 开始重构
             "Key": "f2b47eb8-ddea-499a-ab8b-cf47bd9c2fb4",
             "Value": {
                 "id": "58c51a40-e343-4f97-80c6-ae4b018a1bcc",
@@ -408,7 +500,26 @@
         }
     ],
     "script_order": [
+<<<<<<< HEAD
         "7c6f041e-d936-4259-baac-aefa4b8e9ad1"
+=======
+        "7c6f041e-d936-4259-baac-aefa4b8e9ad1",
+        "83f3df3f-248b-47df-a511-c7a050621031",
+        "0a02ac02-f0bd-4f2e-a292-e6c47fe57a01",
+        "9dd6f4f5-8fcf-47c5-a7ce-b4ad6ca1370d",
+        "544b24ad-fd4d-4a40-aa34-edf9d8fc2195",
+        "1219e916-c535-41d3-90ef-c354dea2086d",
+        "1b8a6f50-1b02-4157-b0df-f63360f735af",
+        "cd8266d9-a1e8-4779-a248-22555ffbfb4e",
+        "b6394a29-9136-4d3e-8afe-cc9ee628bd02",
+        "8fd5a72f-6a48-4ee0-ba02-6f937a4d6733",
+        "4fd58023-efda-4488-882e-89215a0d5eb2",
+        "334c9cd7-6c25-4108-8396-6911cb3206d3",
+        "a345a4c2-aa0c-42df-9270-8ed2d5615355",
+        "62c243b8-34ba-4251-8c29-a206aab92e38",
+        "eb510b6c-4ec3-4b56-9ae7-e44c113e2a89",
+        "719b8b3f-d4bb-43d7-a900-79ae06c8c10b"
+>>>>>>> parent of 3c84666... 开始重构
     ],
     "tutorial": ""
 }
